@@ -37,7 +37,7 @@ nav ul li a {
 }
 
 .name {
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 .left {
@@ -50,7 +50,7 @@ nav ul li a {
 
 .nav_bar{
     color: rgb(182, 182, 182);
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 .nav_bar:hover{

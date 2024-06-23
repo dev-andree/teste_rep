@@ -12,8 +12,8 @@ header{
     border-top-right-radius: 10px;
     padding: 20px;
     position: relative;
-    top: 70px;
-    font-size: 20pt;
+    top: 50px;
+    font-size: 12pt;
 }
 
 a{
@@ -34,16 +34,16 @@ section{
     box-shadow: 
     50px 30px 10px -10px rgba(0, 0, 0, 0.303);
     position: relative;
-    top: 70px;
-    padding: 10%;
+    top: 30px;
+    padding: 4%;
 }
 
 h1{
-    font-size: 40pt;
+    font-size: 20pt;
 }
 
 p{
-    font-size: 20pt;
+    font-size: 12pt;
 }
 
 img{
@@ -53,7 +53,7 @@ img{
 }
 
 .links{
-    width: 70%;
+    width: 50%;
     background-color: #00b3c0;
     border-radius: 10px;
     padding: 5px;
